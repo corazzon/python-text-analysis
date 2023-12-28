@@ -71,7 +71,7 @@
 * 0501-klue-bert-base-input.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/python-text-analysis/blob/main/0501-klue-bert-base-input.ipynb)
 * 0501-klue-bert-base-output.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/python-text-analysis/blob/main/0501-klue-bert-base-output.ipynb)
 * 0502-kogpt2-input.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/python-text-analysis/blob/main/0502-kogpt2-input.ipynb)
-* 0502-kogpt2-output.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/python-text-analysis/blob/main/0502-kogpt2-output.ipynb))
+* 0502-kogpt2-output.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/python-text-analysis/blob/main/0502-kogpt2-output.ipynb)
 * 0503-aihub-data-input.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/python-text-analysis/blob/main/0503-aihub-data-input.ipynb)
 * 0503-aihub-data-output.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/python-text-analysis/blob/main/0503-aihub-data-output.ipynb)
 * 0504-aihub-kogpt2-input.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/python-text-analysis/blob/main/0504-aihub-kogpt2-input.ipynb)
